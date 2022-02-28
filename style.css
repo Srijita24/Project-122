@@ -1,0 +1,23 @@
+body
+{
+	text-align: center;
+	background-color: rgb(5, 158, 158);
+}
+
+h2 
+{
+	color: whitesmoke;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span
+{
+	font-size: 25px;
+	color: rgb(255, 255, 255);
+	font-family: 'Times New Roman', Times, serif;
+}
+canvas
+{
+	background: rgb(250, 250, 250);
+	border-radius: 20px;
+}
